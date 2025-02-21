@@ -7,3 +7,11 @@ https://www.higherlowergame.com/
 https://appbrewery.github.io/python-day14-demo/
 
 
+notes
+
+random value
+input selection a or b
+compare values
+right vs wrong
+score tally
+refresh and count
