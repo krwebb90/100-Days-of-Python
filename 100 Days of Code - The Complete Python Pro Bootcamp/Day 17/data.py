@@ -1,3 +1,5 @@
+# use opentdb.com/api_config.php to generate additional quesitons for this model. Could be cool to find a way to import the API here and randomize the quesiton batch
+
 question_data = [
     {
         "category": "Science: Computers",
